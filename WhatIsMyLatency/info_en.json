@@ -1,0 +1,22 @@
+{
+	"Title" : "WhatIsMyLatency",
+
+	"Description" : "This allows you to present the user with 1-4 graphs that will display the results of Latency tests to user-supplied servers.",
+
+	"Category" : "Networking",
+
+	"Features" :
+		[
+			"Customize the number of servers to test (1-4)",
+            "Customize the timeout of each test",
+            "Customize the number of tests for each selected server",
+            "Customize the URL of any server you wish to test",
+            "Customize the display name for each server"
+		],
+
+	"Optimized" :
+		[
+			"Desktop", "Tablet", "Mobile"
+
+		]
+}
