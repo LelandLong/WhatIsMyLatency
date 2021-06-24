@@ -33,10 +33,10 @@ On the other hand, if their FileMaker Server URL latency test value is much high
 8. Drag newly added Add-On icon over into the layout body
 
 9. Add-On has now been installed, adding the following:
-  1. "Whats My Latency" button to this Layout
-  2. "WhatsMyLatency" folder in the Scripts list, with 3 new Scripts
-  3. "WhatIsMyLatency" Table with 16 Fields and 1 Record
-  4. 2 new Layouts: "WhatIsMyLatency" & "Settings"
+  * "Whats My Latency" button to this Layout
+  * "WhatsMyLatency" folder in the Scripts list, with 3 new Scripts
+  * "WhatIsMyLatency" Table with 16 Fields and 1 Record
+  * 2 new Layouts: "WhatIsMyLatency" & "Settings"
 
 #### Usage
 
