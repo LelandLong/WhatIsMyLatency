@@ -45,3 +45,5 @@ On the other hand, if their FileMaker Server URL latency test value is much high
 2. When finished, click on the "Test Again" button to run the test again
 
 3. When finished, click on the Gear icon (Settings) to configure the Add-On
+
+![Overview image](images/Settings.png)
