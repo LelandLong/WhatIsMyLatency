@@ -38,6 +38,8 @@ On the other hand, if their FileMaker Server URL latency test value is much high
   * "WhatIsMyLatency" Table with 16 Fields and 1 Record
   * 2 new Layouts: "WhatIsMyLatency" & "Settings"
 
+10. Navigate to the new layout "WhatIsMyLatency"
+
 #### Usage
 
 1. Click on the provided button "Whats My Latency" to run the test with the 4 default server URLs
